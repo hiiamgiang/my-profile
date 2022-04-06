@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 * Back-end: ASP.NET Core API, Java Servlet, ...
 * Platform: Firebase, Google Cloud, Github, Jira
 
-[![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### My Github account's stats:
+[![HiIamGiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiiamgiang&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### My old Github account's stats:
+[![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can contact me via:
 #### <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="16" />  [Email](mailto:giangntse150746@fpt.edu.vn)
