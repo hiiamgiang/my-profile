@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![HiIamGiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiiamgiang&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can contact me via:
-#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="16" />  [Email](mailto:giangntse150746@fpt.edu.vn)
+#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="16" />  [Email](mailto:giangntse150746@gmail.com)
 #### <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="16" />  [Github](https://github.com/giangntse150746)
 #### <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="16" />  [Facebook](https://fb.com/MashiMar.2001)
 ##
